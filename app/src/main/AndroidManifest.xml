@@ -12,14 +12,13 @@
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
-        <!-- Delcare activities below here-->
+        <!-- Declare activities below here-->
         <activity
-            android:name=".gpcorser"
+            android:name=".gpcorser_chap1"
             android:label="@string/gpcorser">
         </activity>
 

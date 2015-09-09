@@ -1,16 +1,17 @@
 package edu.svsu.cs403.cs403_fa2015;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 
-public class gpcorser extends AppCompatActivity {
+public class gpcorser_chap1 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_gpcorser);
+        setContentView(R.layout.activity_gpcorser_chap1);
         Log.d("DEBUG", "onCreate was just called!");
     }
 
@@ -32,5 +33,3 @@ public class gpcorser extends AppCompatActivity {
     }
 
 }
-
-

@@ -144,11 +144,11 @@ public class ActivitySelector extends AppCompatActivity {
 
     //Enumeration of student's username to a interger value
     public enum Username {
-        gpcorser(0),
-        kafzal(1),
-        adarenas(2),
-        bjcobb(3),
-        pjessenm(4),
+            gpcorser(0),
+            kafzal(1),
+            adarenas(2),
+            bjcobb(3),
+            pjessenm(4),
         gxhender(5),
         tskosask(6),
         rtmegerl(7),
@@ -158,7 +158,8 @@ public class ActivitySelector extends AppCompatActivity {
         mdroof(11),
         jmwalter(12),
         ntwhitfi(13),
-        amyork(14);
+        amyork(14),
+        TEST(15);
 
         private int intValue;
         private Username(int value) {
