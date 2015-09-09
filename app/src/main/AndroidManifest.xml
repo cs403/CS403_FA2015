@@ -23,6 +23,11 @@
             android:label="@string/gpcorser">
         </activity>
 
+        <activity
+            android:name=".gxhender_chap1"
+            android:label="@string/gxhender">
+        </activity>
+
 
     </application>
 
