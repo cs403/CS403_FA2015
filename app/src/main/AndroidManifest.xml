@@ -22,6 +22,10 @@
             android:label="@string/gpcorser">
         </activity>
 
+        <activity
+            android:name=".pjessenm_chap1"
+            android:label="@string/pjessenm">
+        </activity>
 
     </application>
 
