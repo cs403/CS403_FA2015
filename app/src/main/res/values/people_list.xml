@@ -43,6 +43,7 @@
 
     <string-array name="pjessenm">
         <item>Basic TextView</item>
+        <item>Why Study CSIS?</item>
     </string-array>
 
     <string-array name="gxhender">

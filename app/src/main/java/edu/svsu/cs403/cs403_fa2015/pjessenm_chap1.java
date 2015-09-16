@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 
-public class pjessenm_chap1 extends AppCompatActivity {
+public class pjessenm_chap1 extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

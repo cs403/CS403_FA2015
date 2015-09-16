@@ -27,6 +27,11 @@
             android:label="@string/pjessenm">
         </activity>
 
+        <activity
+            android:name=".pjessenm_WhyStudyCSIS"
+            android:label="pjessenmWhyStudy">
+        </activity>
+
     </application>
 
 </manifest>
