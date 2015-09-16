@@ -45,6 +45,7 @@
 
     <string-array name="gxhender">
         <item>Basic TextView</item>
+        <item>About Us</item>
     </string-array>
 
     <string-array name="tskosask">
