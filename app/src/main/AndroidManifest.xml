@@ -28,6 +28,11 @@
             android:label="@string/gxhender">
         </activity>
 
+        <activity
+            android:name=".gxhender_AboutUs"
+            android:label="About Us">
+        </activity>
+
 
     </application>
 

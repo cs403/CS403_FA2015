@@ -1,6 +1,6 @@
 <resources>
 
-    <string-array name="AboutUs">
+    <string-array name="AboutUsArray">
         <item>About</item>
         <item>Quality Instruction</item>
         <item>Capstone Projects</item>
