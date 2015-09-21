@@ -21,7 +21,10 @@
             android:name=".gpcorser_chap1"
             android:label="@string/gpcorser">
         </activity>
-
+        <activity
+            android:name=".gpcorser_chap2"
+            android:label="@string/gpcorser">
+        </activity>
 
     </application>
 

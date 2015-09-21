@@ -71,7 +71,6 @@ public class ActivitySelector extends AppCompatActivity {
             }
         }
 
-
         public Object getChild(int groupPosition, int childPosition) {
             return exercises[groupPosition][childPosition];
         }
@@ -96,6 +95,7 @@ public class ActivitySelector extends AppCompatActivity {
             textView.setGravity(Gravity.CENTER_VERTICAL | Gravity.LEFT);
             // Set the text starting position
             textView.setPadding(60, 20, 20, 20);
+            textView.setBackgroundColor(2); // gpcorser
             return textView;
         }
 
@@ -149,17 +149,17 @@ public class ActivitySelector extends AppCompatActivity {
             adarenas(2),
             bjcobb(3),
             pjessenm(4),
-        gxhender(5),
-        tskosask(6),
-        rtmegerl(7),
-        tpmetiv1(8),
-        zmmetiva(9),
-        alpero(10),
-        mdroof(11),
-        jmwalter(12),
-        ntwhitfi(13),
-        amyork(14),
-        TEST(15);
+            gxhender(5),
+            tskosask(6),
+            rtmegerl(7),
+            tpmetiv1(8),
+            zmmetiva(9),
+            alpero(10),
+            mdroof(11),
+            jmwalter(12),
+            ntwhitfi(13),
+            amyork(14),
+            TEST(15);
 
         private int intValue;
         private Username(int value) {
