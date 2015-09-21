@@ -78,7 +78,7 @@ package edu.svsu.cs403.cs403_fa2015;
 
             // Adding child data
             List<String> txt1 = new ArrayList<String>();
-            txt1.add("Computing and computer technology are part of just about everything that touches our lives from the cars we drive, to the movies we watch, to the ways businesses and governments deal with us. Understanding different dimensions of computing is part of the necessary skill set for an educated person in the 21st century. Whether you want to be a scientist, develop the latest killer application, or just know what it really means when someone says “the computer made a mistake”, studying computing will provide you with valuable knowledge.");
+            txt1.add(getResources().getString(R.string.txt1));
             List<String> txt2 = new ArrayList<String>();
             txt2.add("Computing is a discipline that offers rewarding and challenging possibilities for a wide range of people regardless of their range of interests. Computing requires and develops capabilities in solving deep, multidimensional problems requiring imagination and sensitivity to a variety of concerns.");
             List<String> txt3 = new ArrayList<String>();
