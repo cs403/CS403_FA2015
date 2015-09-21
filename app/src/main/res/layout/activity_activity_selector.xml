@@ -6,10 +6,17 @@
     android:orientation="vertical"
     tools:context=".ActivitySelector">
 
+    <ImageView
+        android:layout_width="354dp"
+        android:layout_height="186dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/csbanner" />
+
     <ExpandableListView
         android:id="@+id/elvPeople"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="285dp"
         android:clickable="false"
         android:headerDividersEnabled="false">
     </ExpandableListView>
