@@ -2,7 +2,7 @@
 <resources>
     <!-- Array of the Text of each item in the parent list-->
     <string-array name="chapters">
-        <item>CSIS Overview (George Corser)</item>  <!-- gpcorser -->
+        <item>Overview (George Corser)</item>  <!-- gpcorser -->
         <item>Komal Afzal</item>        <!-- kafzal -->
         <item>Alejandro Arenas</item>   <!-- adarenas -->
         <item>Brian Cobb</item>         <!-- bjcobb -->
@@ -25,9 +25,10 @@
         -->
     <!-- Lessons per username -->
     <string-array name="gpcorser">
-        <item>George Corser</item>
         <item>Department Description</item>
-        <item>Difference between CIS and CS</item>
+        <item>Difference Between CS and CIS</item>
+        <item>Difference Between CSIS and EE</item>
+        <item>Other "Big Picture" Items</item>
     </string-array>
 
     <string-array name="kafzal">
