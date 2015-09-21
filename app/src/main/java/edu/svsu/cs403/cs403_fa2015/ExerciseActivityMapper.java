@@ -30,6 +30,7 @@ public class ExerciseActivityMapper {
         //Declare your Java classes here
         exerciseClassMap.put("gpcorser1", gpcorser_chap1.class);
         exerciseClassMap.put("gpcorser2", gpcorser_chap2.class);
+        exerciseClassMap.put("kafzal1", kafzal1_chap1.class);
         exerciseClassMap.put("bjcobb1", bjcobb_chap1.class);
 
     }

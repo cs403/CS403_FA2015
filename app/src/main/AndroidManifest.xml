@@ -30,6 +30,11 @@
             android:label="@string/CIS_Title">
         </activity>
 
+        <activity
+            android:name=".kafzal1_chap1"
+            android:label="@string/kafzal">
+        </activity>
+
     </application>
 
 </manifest>

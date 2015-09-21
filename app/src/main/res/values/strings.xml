@@ -51,5 +51,31 @@ Computer Information Systems tends to be more application oriented than Computer
         </html>
         ]]>
     </string>
+<string name="MissionInfo">The mission of the Department of Computer Science and Information Systems at SVSU is to provide an outstanding education to its students in accordance with the guidelines of the SVSU mission, to advance scholarship in the key domains of the computing and information systems sciences, and to engage in activities that improve the welfare of society and enhance the reputation of SVSU.  The department will provide its students with balanced programs which emphasize:
+   \n
+    \n - the knowledge of the core principles of computer science
+    \n - the skills necessary to use computers to solve real-world problems
+    \n - experience in implementing solutions with modern computing tools
+    \n - the communication skills necessary to work effectively in a team
+    \n - foster a high level of faculty/student interaction and mentoring
+        \n
+      \n  At the end of their programs at SVSU, the department expects CSIS students to be able to:
+        \n
+    \n - Solve problems by using skills in math, computer science, and technology
+    \n - Design, implement, document and maintain computer systems
+    \n - Communicate effectively both orally and in writing
+    \n - Understand professional, ethical, legal, security and social issues and responsibilities
+    \n - Apply their knowledge and skills as they start their professional careers
+    \n - Work well both independently and collaboratively with diverse groups
+    \n - Generate new and creative ideas
+        \n
+ \n After the successful completion of their degree requirements at SVSU:
+        \n
+   \n 1) Graduates shall demonstrate a thorough grounding in the fundamental principles and practices of computing and information systems, and those principles that underpin them.
+    \n 2) Graduates shall demonstrate an understanding of the contexts in which computing is applied.
+    \n 3) Graduates shall find employment in the computing profession and/or continue advanced studies in computer science or information systems.
+
+</string>
+
     <!-- gpcorser -->
 </resources>
