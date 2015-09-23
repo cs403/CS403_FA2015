@@ -37,8 +37,6 @@
     </string>
 
     <string name="txt10">
-        "Computing is one of those fields where it is almost impossible to predict what will happen next. This is why we cannot even begin to imagine all the ways that you can make a contribution to it and it can make your life’s work exciting and real.\n" +
-                    "\n" +
-                    "This list comes from computingcareers.acm.org.  Please visit this site if you want additional information about why you should consider a career in this field."
+        "Computing is one of those fields where it is almost impossible to predict what will happen next. This is why we cannot even begin to imagine all the ways that you can make a contribution to it and it can make your life’s work exciting and real. This list comes from computingcareers.acm.org.  Please visit this site if you want additional information about why you should consider a career in this field."
     </string>
 </resources>
