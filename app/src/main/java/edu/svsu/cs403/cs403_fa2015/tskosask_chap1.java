@@ -7,12 +7,12 @@ import android.util.Log;
 import android.view.Menu;
 import android.widget.TextView;
 
-public class gpcorser_chap2 extends AppCompatActivity {
+public class tskosask_chap1 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_gpcorser_chap2);
+        setContentView(R.layout.activity_tskosask_chap1);
         Log.d("DEBUG", "onCreate was just called!");
     }
 
