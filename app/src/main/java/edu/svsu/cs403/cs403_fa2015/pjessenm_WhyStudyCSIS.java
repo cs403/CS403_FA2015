@@ -77,26 +77,26 @@ package edu.svsu.cs403.cs403_fa2015;
             listDataHeader.add("10. Future opportunities in computing are without boundaries.");
 
             // Adding child data
-            List<String> txt1 = new ArrayList<String>();
+            List<String> txt1 = new ArrayList<>();
             txt1.add(getResources().getString(R.string.txt1));
-            List<String> txt2 = new ArrayList<String>();
-            txt2.add(getResources().getString(R.string.txt2);
-            List<String> txt3 = new ArrayList<String>();
-            txt3.add(getResources().getString(R.string.txt3);
-            List<String> txt4 = new ArrayList<String>();
-            txt4.add(getResources().getString(R.string.txt4);
-            List<String> txt5 = new ArrayList<String>();
-            txt5.add(getResources().getString(R.string.txt5);
-            List<String> txt6 = new ArrayList<String>();
-            txt6.add(getResources().getString(R.string.txt6);
-            List<String> txt7 = new ArrayList<String>();
-            txt7.add(getResources().getString(R.string.txt7);
-            List<String> txt8 = new ArrayList<String>();
-            txt8.add(getResources().getString(R.string.txt8);
-            List<String> txt9 = new ArrayList<String>();
-            txt9.add(getResources().getString(R.string.txt9);
-            List<String> txt10 = new ArrayList<String>();
-            txt10.add(getResources().getString(R.string.txt10);
+            List<String> txt2 = new ArrayList<>();
+            txt2.add(getResources().getString(R.string.txt2));
+            List<String> txt3 = new ArrayList<>();
+            txt3.add(getResources().getString(R.string.txt3));
+            List<String> txt4 = new ArrayList<>();
+            txt4.add(getResources().getString(R.string.txt4));
+            List<String> txt5 = new ArrayList<>();
+            txt5.add(getResources().getString(R.string.txt5));
+            List<String> txt6 = new ArrayList<>();
+            txt6.add(getResources().getString(R.string.txt6));
+            List<String> txt7 = new ArrayList<>();
+            txt7.add(getResources().getString(R.string.txt7));
+            List<String> txt8 = new ArrayList<>();
+            txt8.add(getResources().getString(R.string.txt8));
+            List<String> txt9 = new ArrayList<>();
+            txt9.add(getResources().getString(R.string.txt9));
+            List<String> txt10 = new ArrayList<>();
+            txt10.add(getResources().getString(R.string.txt10));
 
             listDataChild.put(listDataHeader.get(0), txt1); // Header, Child data
             listDataChild.put(listDataHeader.get(1), txt2);
