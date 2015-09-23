@@ -80,25 +80,23 @@ package edu.svsu.cs403.cs403_fa2015;
             List<String> txt1 = new ArrayList<String>();
             txt1.add(getResources().getString(R.string.txt1));
             List<String> txt2 = new ArrayList<String>();
-            txt2.add("Computing is a discipline that offers rewarding and challenging possibilities for a wide range of people regardless of their range of interests. Computing requires and develops capabilities in solving deep, multidimensional problems requiring imagination and sensitivity to a variety of concerns.");
+            txt2.add(getResources().getString(R.string.txt2);
             List<String> txt3 = new ArrayList<String>();
-            txt3.add("Computing drives innovation in the sciences (human genome project, AIDS vaccine research, environmental monitoring and protection just to mention a few), and also in engineering, business, entertainment and education. If you want to make a positive difference in the world, study computing.");
+            txt3.add(getResources().getString(R.string.txt3);
             List<String> txt4 = new ArrayList<String>();
-            txt4.add("Computing jobs are among the highest paid and have the highest job satisfaction. Computing is very often associated with innovation, and developments in computing tend to drive it. This, in turn, is the key to national competitiveness. The possibilities for future developments are expected to be even greater than they have been in the past.");
+            txt4.add(getResources().getString(R.string.txt4);
             List<String> txt5 = new ArrayList<String>();
-            txt5.add("There actually are more computing jobs than qualified people to fill them in the United States. U.S. IT employment was 17% higher in 2004 than in 1999. The Bureau of Labor Statistics says computing has the greatest potential for new jobs through 2018. Yes, some IT jobs have gone overseas. If you consider the expected growth in computing, it’s easy to see that companies simply need more talent. Don’t miss out on pursuing the large number of open positions available right now, here in the United States expected to be even greater than they have been in the past.");
+            txt5.add(getResources().getString(R.string.txt5);
             List<String> txt6 = new ArrayList<String>();
-            txt6.add("Having a computing major will provide you with a foundation of knowledge, problem solving and logical thinking that will serve as a competitive advantage to you in your career, in whatever field you choose. ");
+            txt6.add(getResources().getString(R.string.txt6);
             List<String> txt7 = new ArrayList<String>();
-            txt7.add("Creating high-quality computing solutions is a highly creative activity, and computing supports creative work in many other fields. The best solutions in computing exhibit high levels of elegance and beauty. ");
+            txt7.add(getResources().getString(R.string.txt7);
             List<String> txt8 = new ArrayList<String>();
-            txt8.add("Computing is often about being part of a team that requires people with many different kinds of skills. Yet there is also plenty of space for individual flair and imagination.");
+            txt8.add(getResources().getString(R.string.txt8);
             List<String> txt9 = new ArrayList<String>();
-            txt9.add("An increasing number of universities and employers see successful completion of a computer science course as a sign of academic well-roundedness.");
+            txt9.add(getResources().getString(R.string.txt9);
             List<String> txt10 = new ArrayList<String>();
-            txt10.add("Computing is one of those fields where it is almost impossible to predict what will happen next. This is why we cannot even begin to imagine all the ways that you can make a contribution to it and it can make your life’s work exciting and real.\n" +
-                    "\n" +
-                    "This list comes from computingcareers.acm.org.  Please visit this site if you want additional information about why you should consider a career in this field.");
+            txt10.add(getResources().getString(R.string.txt10);
 
             listDataChild.put(listDataHeader.get(0), txt1); // Header, Child data
             listDataChild.put(listDataHeader.get(1), txt2);
