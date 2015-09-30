@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CS403</string>
+    <string name="app_name">SVSU-CSIS (CS-403)</string>
 
         <string name="hello_world">Hello world!</string>
         <string name="menu_settings">Settings</string>
@@ -21,6 +21,74 @@
         <string name="ntwhitfi">Nathan Whitfield</string>   <!-- ntwhitfi -->
         <string name="amyork">Andrew York</string>   <!-- amyork -->
 
+
         <string name="action_settings">Settings</string>
-    <string name="cs_course_sequence_text">CS Course Sequence</string>
+        <string name="gpcorser_bio">Great humanitarian</string>
+    <string name="gpcorser_dept_desc">Department Description</string>
+    <string name="gpcorser_dept_desc_text1">Inside the classroom</string>
+    <string name="gpcorser_dept_desc_text2">Outside the classroom</string>
+    <string name="gpcorser_dept_desc_text3">The Computer Science program and Computer Information Systems program share many of the same core classes to ensure that students are adequately prepared with the necessary background for their upper class studies.  This common core includes programming both in a Windows graphical environment as well as in a UNIX command-line environment.  Industry uses both operating systems and so the Department wants students to be well versed in each area.  Additionally, students will learn C++ and Microsoft Visual Basic as toolsets to develop applications.  The common core also includes introductory data structures, statistics with computer applications, web client development and web server development.  Both majors are heavily programming-oriented.  The curriculum has been designed this way on purpose so that students can learn about a concept and then use their programming knowledge as a vehicle to understand, experiment and implement that topic.  Both programs do a great job in preparing students for their future in industry or to pursue a graduate degree</string>
+    <string name="gpcorser_difference_cs_cis">Difference Between CS and CIS</string>
+    <string name="csCourseSequenceTextView">CS Course Sequence</string>
+    <string name="freshmanHeadingText">Year 1 - Freshman</string>
+    <string name="generalReqText">General Requirements</string>
+    <string name="GenEduText">General Education</string>
+    <string name="coreRequrementsText">Core Requirments</string>
+    <string name="electivesText">Electives</string>
+    <string name="math103Text">Math 103</string>
+    <string name="comm105AText">Comm 105</string>
+    <string name="math161Text">Math 161</string>
+    <string name="PHILReqText">PHIL 205A (or 210B)</string>
+    <string name="cs105Text">CS 105</string>
+    <string name="cs146Text">CS 146</string>
+    <string name="cs116Text">CS 116</string>
+    <string name="juniorHeadingText">Year 3 - Junior</string>
+    <string name="sophmoreHeadingText">Year 2 - Sophmore</string>
+    <string name="CIS_Title">CIS</string>
+    <string name="CIS_Web">
+        <![CDATA[
+        <html>
+            <body>
+                <h3>Computer Information Systems</h3>
+                <p>The Computer Information Systems program and Computer Science program share many of the same core classes to ensure that students are adequately prepared with the necessary background for their upper class studies.  This common core includes programming both in a Windows graphical environment as well as in a Unix command-line environment.  Industry uses both operating systems and so the Department wants students to be well versed in each area.  Additionally, students will learn C++ and Microsoft Visual Basic as toolsets to develop applications.  The common core also includes introductory data structures, statistics with computer applications, web client development and web server development.  Both majors are heavily programming-oriented.  The curriculum has been designed this way on purpose so that students can learn about a concept and then use their programming knowledge as a vehicle to understand, experiment and implement that topic.  Both programs do a great job in preparing students for their future in industry or to pursue a graduate degree
+
+Computer Information Systems tends to be more application oriented than Computer Science and geared toward application development with some business emphasis.  Computer Information Systems majors will see the following in their degree program:</p>
+                <ul>
+                    <li>Topical Coverage Synopsis: Models, technologies, systems and E-business strategies that are crucial in today’s businesses</li>
+                    <li>Cutting-edge technology skills and knowledge:
+                    <ul>
+                        <li>Application Areas: Data Communications, Database, e-Commerce, .NET development</li>
+                        <li>Technical Topics: system integration &amp; management, systems design and analysis, enterprise database systems &amp; transaction processing and much more</li>
+                    </ul>
+                    </li>
+                </ul>
+            </body>
+        </html>
+        ]]>
+    </string>
+    <string name="seniorHeadingText">Year 4 - Senior</string>
+    <string name="cs401Text">CS 401</string>
+    <string name="cs421Text">CS 421</string>
+    <string name="cs446Text">CS 446</string>
+    <string name="cs451Text">CS 451</string>
+    <string name="cs402Text">CS 402</string>
+    <string name="cs422Text">CS 422</string>
+    <string name="cs416Text">CS 416</string>
+    <string name="cs431Text">CS 431</string>
+    <string name="cs476Text">CS 476</string>
+    <string name="cs482Text">Cs 482</string>
+    <string name="cs490Text">CS 490</string>
+    <string name="cs246Text">CS 246</string>
+    <string name="math162Text">MATH 162</string>
+    <string name="rpw304Text">RPW 304</string>
+    <string name="cs216Text">CS 216</string>
+    <string name="cis255Text">CIS 255</string>
+    <string name="cis311Text">CIS 255</string>
+    <string name="cs316Text">CS 316</string>
+    <string name="cis366Text">CIS 366</string>
+    <string name="cis331Text">CIS 331</string>
+    <string name="cs411Text">CS 411</string>
+    <string name="cs345Text">CS 345</string>
+    <string name="cis357Text">CIS 357</string>
+    <!-- gpcorser -->
 </resources>

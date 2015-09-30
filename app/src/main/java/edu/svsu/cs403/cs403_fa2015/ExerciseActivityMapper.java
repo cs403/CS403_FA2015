@@ -28,8 +28,14 @@ public class ExerciseActivityMapper {
         exerciseClassMap = new HashMap<String, Class<? extends Activity>>();
 
         //Declare your Java classes here
-        exerciseClassMap.put("gpcorser1", gpcorser.class);
+        exerciseClassMap.put("gpcorser1", gpcorser_chap1.class);
+        exerciseClassMap.put("gpcorser2", gpcorser_chap2.class);
         exerciseClassMap.put("jmwalter1", jmwalter_chap1.class);
+        exerciseClassMap.put("jmwalter2", jmwalter_chap2.class);
+        exerciseClassMap.put("jmwalter3", jmwalter_chap3.class);
+        exerciseClassMap.put("jmwalter4", jmwalter_chap4.class);
+        exerciseClassMap.put("bjcobb1", bjcobb_chap1.class);
+
     }
 }
 

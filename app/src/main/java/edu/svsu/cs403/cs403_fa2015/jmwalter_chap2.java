@@ -7,12 +7,12 @@ import android.util.Log;
 import android.view.Menu;
 import android.widget.TextView;
 
-public class jmwalter_chap1 extends AppCompatActivity {
+public class jmwalter_chap2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_jmwalter_chap1_freshman);
+        setContentView(R.layout.activity_jmwalter_chap2_sophomore);
         Log.d("DEBUG", "onCreate was just called!");
     }
 

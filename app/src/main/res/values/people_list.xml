@@ -2,7 +2,7 @@
 <resources>
     <!-- Array of the Text of each item in the parent list-->
     <string-array name="chapters">
-        <item>George Corser</item>  <!-- gpcorser -->
+        <item>Overview (George Corser)</item>  <!-- gpcorser -->
         <item>Komal Afzal</item>        <!-- kafzal -->
         <item>Alejandro Arenas</item>   <!-- adarenas -->
         <item>Brian Cobb</item>         <!-- bjcobb -->
@@ -17,6 +17,7 @@
         <item>Joshua Walters</item>     <!-- jmwalter -->
         <item>Nathan Whitfield</item>   <!-- ntwhitfi -->
         <item>Andrew York</item>        <!-- amyork -->
+        <item>TEST</item>        <!-- amyork -->
     </string-array>
 
     <!-- Child arrays for each parent list item
@@ -24,7 +25,10 @@
         -->
     <!-- Lessons per username -->
     <string-array name="gpcorser">
-        <item>Basic TextView</item>
+        <item>Department Description</item>
+        <item>Difference Between CS and CIS</item>
+        <item>Difference Between CSIS and EE</item>
+        <item>Other "Big Picture" Items</item>
     </string-array>
 
     <string-array name="kafzal">
@@ -33,10 +37,11 @@
 
     <string-array name="adarenas">
         <item>Basic TextView</item>
+
     </string-array>
 
     <string-array name="bjcobb">
-        <item>Basic TextView</item>
+        <item>CIS</item>
     </string-array>
 
     <string-array name="pjessenm">
@@ -72,15 +77,24 @@
     </string-array>
 
     <string-array name="jmwalter">
-        <item>Basic TextView</item>
+        <item>Freshman Requirements</item>
+        <item>Sophomore Requirements</item>
+        <item>Junior Requirements</item>
+        <item>Senior Requirements</item>
     </string-array>
 
     <string-array name="ntwhitfi">
         <item>Basic TextView</item>
+
+
     </string-array>
 
     <string-array name="amyork">
         <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="TEST">
+        <item>TEST</item>
     </string-array>
     <!--********************** Ignore below ********************************-->
 <!--
