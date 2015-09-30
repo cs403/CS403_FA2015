@@ -43,7 +43,7 @@
     <string name="cs146Text">CS 146</string>
     <string name="cs116Text">CS 116</string>
     <string name="juniorHeadingText">Year 3 - Junior</string>
-    <string name="sophmoreHeadingText">Year 2 - Sophmore</string>
+    <string name="sophomoreHeadingText">Year 2 - Sophomore</string>
     <string name="CIS_Title">CIS</string>
     <string name="CIS_Web">
         <![CDATA[
@@ -76,7 +76,7 @@ Computer Information Systems tends to be more application oriented than Computer
     <string name="cs416Text">CS 416</string>
     <string name="cs431Text">CS 431</string>
     <string name="cs476Text">CS 476</string>
-    <string name="cs482Text">Cs 482</string>
+    <string name="cs482Text">CS 482</string>
     <string name="cs490Text">CS 490</string>
     <string name="cs246Text">CS 246</string>
     <string name="math162Text">MATH 162</string>
