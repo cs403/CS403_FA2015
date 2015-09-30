@@ -42,6 +42,8 @@
 
     <string-array name="bjcobb">
         <item>CIS</item>
+        <item>CS</item>
+        <item>ACM</item>
     </string-array>
 
     <string-array name="pjessenm">
