@@ -7,14 +7,8 @@ package edu.svsu.cs403.cs403_fa2015;
     import android.os.Bundle;
     import android.util.Log;
     import android.view.Menu;
-    import android.view.View;
-    //import android.widget.ExpandableListAdapter;
     import android.widget.ExpandableListView;
-    import android.widget.ExpandableListView.OnChildClickListener;
-    import android.widget.ExpandableListView.OnGroupClickListener;
-    import android.widget.ExpandableListView.OnGroupCollapseListener;
-    import android.widget.ExpandableListView.OnGroupExpandListener;
-    import android.widget.Toast;
+
 
     public class pjessenm_WhyStudyCSIS extends Activity {
 
@@ -61,8 +55,8 @@ package edu.svsu.cs403.cs403_fa2015;
          * Preparing the list data
          */
         private void prepareListData() {
-            listDataHeader = new ArrayList<String>();
-            listDataChild = new HashMap<String, List<String>>();
+            listDataHeader = new ArrayList<>();
+            listDataChild = new HashMap<>();
 
             // Adding child data
             listDataHeader.add("1. Computing is part of everything we do!");
@@ -98,7 +92,8 @@ package edu.svsu.cs403.cs403_fa2015;
             List<String> txt10 = new ArrayList<>();
             txt10.add(getResources().getString(R.string.txt10));
 
-            listDataChild.put(listDataHeader.get(0), txt1); // Header, Child data
+            // Header, Child data
+            listDataChild.put(listDataHeader.get(0), txt1);
             listDataChild.put(listDataHeader.get(1), txt2);
             listDataChild.put(listDataHeader.get(2), txt3);
             listDataChild.put(listDataHeader.get(3), txt4);

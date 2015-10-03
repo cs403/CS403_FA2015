@@ -6,7 +6,7 @@ import java.util.HashMap;
 
 public class ExerciseActivityMapper {
     private static ExerciseActivityMapper singleton;
-    private HashMap<String, Class<? extends Activity>> exerciseClassMap = new HashMap<String, Class<? extends Activity>>();
+    private HashMap<String, Class<? extends Activity>> exerciseClassMap = new HashMap<>();
 
     public ExerciseActivityMapper() {
         defineExerciseMappings();
@@ -28,7 +28,6 @@ public class ExerciseActivityMapper {
 
         //Declare your Java classes here
         exerciseClassMap.put("gpcorser1", gpcorser_chap1.class);
-        exerciseClassMap.put("pjessenm1", pjessenm_chap1.class);
         exerciseClassMap.put("pjessenm2", pjessenm_WhyStudyCSIS.class);
 
     }
