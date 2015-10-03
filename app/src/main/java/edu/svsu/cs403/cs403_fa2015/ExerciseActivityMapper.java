@@ -31,6 +31,8 @@ public class ExerciseActivityMapper {
         exerciseClassMap.put("gpcorser1", gpcorser_chap1.class);
         exerciseClassMap.put("gpcorser2", gpcorser_chap2.class);
         exerciseClassMap.put("tskosask1", tskosask_chap1.class);
+        exerciseClassMap.put("tskosask2", tskosask_chap2.class);
+        exerciseClassMap.put("tskosask3", tskosask_chap3.class);
 
     }
 }

@@ -20,7 +20,6 @@ public class tskosask_chap1 extends AppCompatActivity {
         super.onResume();
         Log.d("DEBUG", "onResume was just called!");
     }
-
     protected void onPause() {
         super.onPause();
         Log.d("DEBUG", "onPause was just called!");

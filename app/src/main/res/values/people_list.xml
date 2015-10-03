@@ -53,7 +53,9 @@
     </string-array>
 
     <string-array name="tskosask">
-        <item>Computer Science Faculty</item>
+        <item>Department Chair</item>
+        <item>Dean</item>
+        <item>Associate Dean</item>
     </string-array>
 
     <string-array name="rtmegerl">

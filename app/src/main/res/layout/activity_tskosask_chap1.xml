@@ -14,66 +14,79 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Computer Science Faculty"
-        android:id="@+id/txtFacultyHeader"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
+        android:text="@string/tsk_dept_chair"
+        android:id="@+id/txtTitle"
+        android:layout_alignParentTop="false"
+        android:layout_alignParentLeft="false"
         android:layout_alignParentStart="true"
-        android:textSize="31dp" />
+        android:textSize="31dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="15dp" />
 
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/scrollView"
-        android:layout_below="@+id/txtFacultyHeader"
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtDeptChairName"
+        android:id="@+id/textView"
+        android:textSize="25dp"
+        android:layout_below="@+id/txtTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:src="@drawable/cho"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:minWidth="100dp"
+        android:minHeight="150dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtDeptChairTitle"
+        android:id="@+id/textView2"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/imageView2"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" >
+        android:layout_alignParentStart="true" />
 
-        <TableLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtDeptChairOffice"
+        android:id="@+id/textView3"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
 
-            <TableRow
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_marginTop="3dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtDeptChairPhone"
+        android:id="@+id/textView4"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Title"
-                    android:id="@+id/txtTitleColHeader"
-                    android:layout_marginLeft="7dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Name"
-                    android:id="@+id/txtNameColHeader"
-                    android:layout_marginLeft="7dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Building"
-                    android:id="@+id/txtBuildingColHeader"
-                    android:layout_marginLeft="7dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Office"
-                    android:id="@+id/txtOfficeColHeader"
-                    android:layout_marginLeft="7dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Phone"
-                    android:id="@+id/txtPhoneColHeader"
-                    android:layout_marginLeft="7dp" />
-            </TableRow>
-        </TableLayout>
-    </ScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtDeptChairEmail"
+        android:id="@+id/textView5"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
