@@ -1,3 +1,6 @@
+//Tyler Kosaski 10/2/15
+//This activity displays information about the Department Chair
+
 package edu.svsu.cs403.cs403_fa2015;
 
 import android.os.Bundle;
