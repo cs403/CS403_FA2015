@@ -12,7 +12,7 @@
         <item>Richard Megerle</item>    <!-- rtmegerl -->
         <item>Tyler Metiva</item>       <!-- tpmetiv1 -->
         <item>Zach Metiva</item>        <!-- zmmetiva -->
-        <item>Adam Pero</item>          <!-- alpero -->
+        <item>NEWS (alpero)</item>          <!-- alpero -->
         <item>Michael Roof</item>       <!-- mdroof -->
         <item>Joshua Walters</item>     <!-- jmwalter -->
         <item>Nathan Whitfield</item>   <!-- ntwhitfi -->
@@ -41,7 +41,9 @@
     </string-array>
 
     <string-array name="bjcobb">
-        <item>Basic TextView</item>
+        <item>CIS</item>
+        <item>CS</item>
+        <item>ACM</item>
     </string-array>
 
     <string-array name="pjessenm">
@@ -71,7 +73,9 @@
     </string-array>
 
     <string-array name="alpero">
-        <item>Basic TextView</item>
+        <item>@string/alpero_news_title1</item>
+        <item>@string/alpero_news_title2</item>
+        <item>@string/alpero_news_title3</item>
     </string-array>
 
     <string-array name="mdroof">
