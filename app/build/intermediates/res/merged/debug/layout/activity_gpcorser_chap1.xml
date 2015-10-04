@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:paddingLeft="@dimen/activity_horizontal_margin">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/gpcorser_dept_desc"
+        android:id="@+id/titleTextView"
+        android:layout_gravity="center_horizontal"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/casualImageView"
+        android:layout_alignEnd="@+id/casualImageView" />
+
+    <ImageView
+        android:layout_width="190dp"
+        android:layout_height="126dp"
+        android:id="@+id/classroomImageView"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:src="@drawable/csclassroom"
+        android:layout_below="@+id/titleTextView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/casualImageView"
+        android:layout_toStartOf="@+id/casualImageView" />
+
+    <ImageView
+        android:layout_width="190dp"
+        android:layout_height="164dp"
+        android:id="@+id/casualImageView"
+        android:layout_row="2"
+        android:layout_column="0"
+        android:src="@drawable/csstudents"
+        android:layout_below="@+id/insideTextView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/gpcorser_dept_desc_text1"
+        android:id="@+id/insideTextView"
+        android:layout_row="1"
+        android:layout_column="1"
+        android:layout_below="@+id/titleTextView"
+        android:layout_toRightOf="@+id/classroomImageView"
+        android:paddingLeft="10dp"
+        android:layout_alignRight="@+id/casualImageView"
+        android:layout_alignEnd="@+id/casualImageView" />
+
+    <TextView
+        android:layout_width="115dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/gpcorser_dept_desc_text2"
+        android:id="@+id/outsideTextView"
+        android:layout_row="2"
+        android:layout_column="1"
+        android:layout_toLeftOf="@+id/casualImageView"
+        android:paddingRight="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:gravity="right"
+        android:layout_alignBottom="@+id/casualImageView"
+        android:layout_below="@+id/classroomImageView" />
+
+<!-- gpcorser20150916 2 lines below
+        android:maxLines="200"
+        android:scrollbars="vertical"
+        -->
+    <TextView
+        android:maxLines="200"
+        android:scrollbars="vertical"
+        android:layout_width="205dp"
+        android:layout_height="400dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/gpcorser_dept_desc_text3"
+        android:id="@+id/descriptionTextView"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:layout_below="@+id/casualImageView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
+<!-- From: file:/home/zmmetiva/Documents/GitHub/CS403_FA2015/app/src/main/res/layout/activity_gpcorser_chap1.xml -->

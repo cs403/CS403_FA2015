@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.svsu.cs403.cs403_fa2015"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.ActivitySelector"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Declare activities below here -->
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.gpcorser_chap1"
+            android:label="@string/gpcorser" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.gpcorser_chap2"
+            android:label="@string/gpcorser" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.bjcobb_chap1"
+            android:label="@string/CIS_Title" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.kafzal1_chap1"
+            android:label="@string/kafzal" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.alpero_chap1"
+            android:label="@string/alpero" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.alpero_chap2"
+            android:label="@string/alpero" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.alpero_chap3"
+            android:label="@string/alpero" >
+        </activity>
+    </application>
+
+</manifest>

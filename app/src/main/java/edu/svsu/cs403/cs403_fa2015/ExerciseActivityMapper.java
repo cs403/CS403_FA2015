@@ -35,6 +35,9 @@ public class ExerciseActivityMapper {
         exerciseClassMap.put("alpero1", alpero_chap1.class);
         exerciseClassMap.put("alpero2", alpero_chap2.class);
         exerciseClassMap.put("alpero3", alpero_chap3.class);
+        exerciseClassMap.put("zmmetiva1", zmmetiva_chap1.class);
+        exerciseClassMap.put("zmmetiva2", zmmetiva_chap2.class);
+        exerciseClassMap.put("zmmetiva3", zmmetiva_chap3.class);
     }
 }
 

@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/llContentLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ActivitySelector">
+
+    <ImageView
+        android:layout_width="354dp"
+        android:layout_height="186dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/csbanner" />
+
+    <ExpandableListView
+        android:id="@+id/elvPeople"
+        android:layout_width="match_parent"
+        android:layout_height="285dp"
+        android:clickable="false"
+        android:headerDividersEnabled="false">
+    </ExpandableListView>
+
+</LinearLayout><!-- From: file:/home/zmmetiva/Documents/GitHub/CS403_FA2015/app/src/main/res/layout/activity_activity_selector.xml -->
