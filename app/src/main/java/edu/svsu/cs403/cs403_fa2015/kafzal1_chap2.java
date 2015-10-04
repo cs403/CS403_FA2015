@@ -1,21 +1,21 @@
 package edu.svsu.cs403.cs403_fa2015;
 
-import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.text.method.ScrollingMovementMethod;
-import android.util.Log;
-import android.view.Menu;
-import android.widget.TextView;
+        import android.os.Bundle;
+        import android.support.v7.app.AppCompatActivity;
+        import android.text.method.ScrollingMovementMethod;
+        import android.util.Log;
+        import android.view.Menu;
+        import android.widget.TextView;
 
-public class kafzal1_chap1 extends AppCompatActivity {
+public class kafzal1_chap2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_kafzal1_chap1);
+        setContentView(R.layout.activity_kafzal1_chap2);
         // gpcorser20150916: code for scrolling
-      //  TextView description1 = (TextView) findViewById(R.id.textView);
-      //  description1.setMovementMethod(new ScrollingMovementMethod());
+        //  TextView description1 = (TextView) findViewById(R.id.textView);
+        //  description1.setMovementMethod(new ScrollingMovementMethod());
         Log.d("DEBUG", "onCreate was just called!");
     }
 

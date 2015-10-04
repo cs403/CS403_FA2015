@@ -35,6 +35,15 @@
             android:label="@string/kafzal">
         </activity>
         <activity
+            android:name=".kafzal1_chap2"
+            android:label="@string/kafzal">
+        </activity>
+        <activity
+            android:name=".kafzal1_chap3"
+            android:label="@string/kafzal">
+        </activity>
+
+        <activity
             android:name=".alpero_chap1"
             android:label="@string/alpero">
         </activity>
