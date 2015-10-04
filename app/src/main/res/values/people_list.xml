@@ -71,7 +71,9 @@
     </string-array>
 
     <string-array name="zmmetiva">
-        <item>Basic TextView</item>
+        <item>Opportunities</item>
+        <item>Local Employers</item>
+        <item>Regional Employers</item>
     </string-array>
 
     <string-array name="alpero">

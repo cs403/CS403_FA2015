@@ -180,6 +180,12 @@ In addition to her public talk, Inniss also will meet with SVSU faculty, staff a
         \n\nIdentifying the bacteria will help Collins understand how it entered the lab, and thus, how to prevent similar bacteria from entering in the future. McEvoy said a previously identified bacterium is typically found on human eyebrows, suggesting a pharmacy staff member scratching their eyebrow may have been the source of the microscopic intruder.
         \n\nMcEvoy expects to identify about 20 bacteria within the year.  Once the Healthway Compounding Pharmacy research is finished, McEvoy said he expects SVSU will use the Biolog system for teaching and faculty research while also offering research services to Healthway Compounding Pharmacy and other companies.
         \n\nIn 2015, SVSU received the Community Engagement classification from the Carnegie Foundation for the Advancement of Teaching, a distinction achieved by only 7 percent of U.S. colleges and universities. For more on SVSU\'s community engagement, visit svsu.edu/communityengagement/.</string>
-
+    <string name="zmmetiva_title">Career Opportunities</string>
+    <string name="zmmetiva_graduate">Where do our graduates go after graduation?</string>
+    <string name="afterGradInfoTextView">Some students go on to complete graduate work and earn master’s degrees and Ph.D.s.  Our programs prepare students for grad school if that’s what they are interested in.  Many have pursued graduate degrees at institutions in the state such as Michigan State University, Oakland University, The University of Michigan and Central Michigan University. Others have gone on to schools in other states and done very well. For the majority of our students, they decide to enter the workforce after graduation.  Our name is recognized as producing skilled employees…a fact that we are very proud of.  In fact many local and regional employers return to SVSU year after year to hire our Computer Science and Information System student graduates.</string>
+    <string name="afterGraduateInfo2TextView">Our students have even successfully started their own companies right after graduating from SVSU!</string>
+    <string name="zmmetiva_titleText1">Opprotunities</string>
+    <string name="zmmetiva_titleText2">Local Employers</string>
+    <string name="zmmetiva_titleText3">Regional Employers</string>
 
 </resources>
