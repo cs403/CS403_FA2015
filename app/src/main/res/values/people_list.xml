@@ -10,7 +10,7 @@
         <item>Gerald Henderson</item>   <!-- gxhender -->
         <item>Tyler Kosaski</item>      <!-- tskosask-->
         <item>Richard Megerle</item>    <!-- rtmegerl -->
-        <item>Tyler Metiva</item>       <!-- tpmetiv1 -->
+        <item>Extracurricular (Tyler Metiva)</item>       <!-- tpmetiv1 -->
         <item>Zach Metiva</item>        <!-- zmmetiva -->
         <item>NEWS (alpero)</item>          <!-- alpero -->
         <item>Michael Roof</item>       <!-- mdroof -->
@@ -66,8 +66,10 @@
         <item>Basic TextView</item>
     </string-array>
 
-    <string-array name="tpmetiv1">
-        <item>Basic TextView</item>
+    <string-array name="tpmetiva">
+        <item>ACM</item>
+        <item>IEEE</item>
+        <item>Cardinal Bitcoiners</item>
     </string-array>
 
     <string-array name="zmmetiva">

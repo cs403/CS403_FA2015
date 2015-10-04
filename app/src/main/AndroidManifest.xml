@@ -47,6 +47,19 @@
             android:label="@string/alpero">
         </activity>
 
+        <activity
+            android:name=".tpmetiva_chap1"
+            android:label="ACM">
+        </activity>
+        <activity
+            android:name="tpmetiva_chap2"
+            android:label="IEEE">
+        </activity>
+        <activity
+            android:name="tpmetiva_chap3"
+            android:label="Bitcoiners">
+        </activity>
+
     </application>
 
 </manifest>

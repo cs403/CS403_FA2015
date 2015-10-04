@@ -13,7 +13,7 @@
         <string name="gxhender">Gerald Henderson</string>   <!-- gxhender -->
         <string name="tskosask">Tyler Kosaski</string>   <!-- tskosask-->
         <string name="rtmegerl">Richard Megerle</string>   <!-- rtmegerl -->
-        <string name="tpmetiv1">Tyler Metiva</string>   <!-- tpmetiv1 -->
+        <string name="tpmetiva">Tyler Metiva</string>   <!-- tpmetiv1 -->
         <string name="zmmetiva">Zach Metiva</string>   <!-- zmmetiva -->
         <string name="alpero">Adam Pero</string>   <!-- alpero -->
         <string name="mdroof">Michael Roof</string>   <!-- mdroof -->
@@ -181,5 +181,6 @@ In addition to her public talk, Inniss also will meet with SVSU faculty, staff a
         \n\nMcEvoy expects to identify about 20 bacteria within the year.  Once the Healthway Compounding Pharmacy research is finished, McEvoy said he expects SVSU will use the Biolog system for teaching and faculty research while also offering research services to Healthway Compounding Pharmacy and other companies.
         \n\nIn 2015, SVSU received the Community Engagement classification from the Carnegie Foundation for the Advancement of Teaching, a distinction achieved by only 7 percent of U.S. colleges and universities. For more on SVSU\'s community engagement, visit svsu.edu/communityengagement/.</string>
 
-
+        <string name="tpmetiva_acm_desc">The Association For Computing Machinery (ACM) was founded in 1947. It is an international scientific and educational organization dedicated to advancing art, science, engineering and application of information technology. The ACM serves both professional and public interest by fostering the open interchange of information and promoting the highest professional and ethical standards.</string>
+        <string name="tpmetiva_ieee_desc">The Institute of Electrical and Electronics Engineers (IEEE) is an international organization offering professional membership for engineers and scientists throughout the world. With a membership of over 360,000 in about 150 countries, IEEE is the world\'s largest professional technical society. The goals of IEEE focus on the promotion and advancement of knowledge and practice of electrical, electronics and computer engineering and computer science. To achieve these goals, 35 technical societies provide specialized membership within IEEE. In addition, over 800 worldwide Student Branches are sponsored by IEEE. \n\n\ The SVSU IEEE Student Branch , established in 1986, is open to EE and CS students, who are enrolled on at least a 50% full-time basis. Students enrolled in an allied branch of engineering, engineering technology or the related arts and sciences are also eligible for membership.\n\nFor more information and an application for membership contact any of the following:\n</string>
 </resources>
