@@ -23,7 +23,7 @@
         </activity>
 
         <activity
-            android:name=".pjessenm_WhyStudyCSIS"
+            android:name=".pjessenm_chap12"
             android:label="pjessenmWhyStudy">
         </activity>
 

@@ -1,3 +1,10 @@
+/*
+    Author: Phil Essenmacher
+    Date Modified: 10.4.15
+    Purpose:  This class is used to create and manage the behavior of chapter 12 of the SVSU CSIS
+        class app.
+ */
+
 package edu.svsu.cs403.cs403_fa2015;
 
     import java.util.ArrayList;
@@ -10,9 +17,9 @@ package edu.svsu.cs403.cs403_fa2015;
     import android.widget.ExpandableListView;
 
 
-    public class pjessenm_WhyStudyCSIS extends Activity {
+    public class pjessenm_chap12 extends Activity {
 
-        ExpandableListAdapter listAdapter;
+        pjessenm_ExpandableListAdapter listAdapter;
         ExpandableListView expListView;
         List<String> listDataHeader;
         HashMap<String, List<String>> listDataChild;
@@ -20,7 +27,7 @@ package edu.svsu.cs403.cs403_fa2015;
         @Override
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
-            setContentView(R.layout.activity_pjessenm_why_study_csis);
+            setContentView(R.layout.activity_pjessenm_chap12);
 
             // get the listview
             expListView = (ExpandableListView) findViewById(R.id.lvExp);
@@ -28,7 +35,7 @@ package edu.svsu.cs403.cs403_fa2015;
             // preparing list data
             prepareListData();
 
-            listAdapter = new ExpandableListAdapter(this, listDataHeader, listDataChild);
+            listAdapter = new pjessenm_ExpandableListAdapter(this, listDataHeader, listDataChild);
 
             // setting list adapter
             expListView.setAdapter(listAdapter);

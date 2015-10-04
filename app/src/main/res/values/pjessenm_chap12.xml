@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+    Author: Phil Essenmacher
+    Date Modified: 10.4.15
+    Purpose: This file is a resource file to hold strings for the chapter 12 activity of the
+        SVSU CSIS app.
+-->
+
 <resources>
     <string name="txt1">
         "Computing and computer technology are part of just about everything that touches our lives from the cars we drive, to the movies we watch, to the ways businesses and governments deal with us. Understanding different dimensions of computing is part of the necessary skill set for an educated person in the 21st century. Whether you want to be a scientist, develop the latest killer application, or just know what it really means when someone says “the computer made a mistake”, studying computing will provide you with valuable knowledge."
