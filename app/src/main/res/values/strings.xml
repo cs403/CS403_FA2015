@@ -23,18 +23,12 @@
 
 
         <string name="action_settings">Settings</string>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5fa48ecc8501fc271a3313831b5a41f074d15c8c
         <string name="gpcorser_bio">Great humanitarian</string>
     <string name="gpcorser_dept_desc">Department Description</string>
     <string name="gpcorser_dept_desc_text1">Inside the classroom</string>
     <string name="gpcorser_dept_desc_text2">Outside the classroom</string>
     <string name="gpcorser_dept_desc_text3">The Computer Science program and Computer Information Systems program share many of the same core classes to ensure that students are adequately prepared with the necessary background for their upper class studies.  This common core includes programming both in a Windows graphical environment as well as in a UNIX command-line environment.  Industry uses both operating systems and so the Department wants students to be well versed in each area.  Additionally, students will learn C++ and Microsoft Visual Basic as toolsets to develop applications.  The common core also includes introductory data structures, statistics with computer applications, web client development and web server development.  Both majors are heavily programming-oriented.  The curriculum has been designed this way on purpose so that students can learn about a concept and then use their programming knowledge as a vehicle to understand, experiment and implement that topic.  Both programs do a great job in preparing students for their future in industry or to pursue a graduate degree</string>
     <string name="gpcorser_difference_cs_cis">Difference Between CS and CIS</string>
-<<<<<<< HEAD
-=======
     <string name="csCourseSequenceTextView">CS Course Sequence</string>
     <string name="freshmanHeadingText">Year 1 - Freshman</string>
     <string name="generalReqText">General Requirements</string>
@@ -50,7 +44,6 @@
     <string name="cs116Text">CS 116</string>
     <string name="juniorHeadingText">Year 3 - Junior</string>
     <string name="sophomoreHeadingText">Year 2 - Sophomore</string>
->>>>>>> 5fa48ecc8501fc271a3313831b5a41f074d15c8c
     <string name="CIS_Title">CIS</string>
     <string name="CIS_Web">
         <![CDATA[
@@ -73,7 +66,7 @@ Computer Information Systems tends to be more application oriented than Computer
         </html>
         ]]>
     </string>
-<<<<<<< HEAD
+
 <string name="MissionInfo">The mission of the Department of Computer Science and Information Systems at SVSU is to provide an outstanding education to its students in accordance with the guidelines of the SVSU mission, to advance scholarship in the key domains of the computing and information systems sciences, and to engage in activities that improve the welfare of society and enhance the reputation of SVSU.  The department will provide its students with balanced programs which emphasize:
    \n
     \n - the knowledge of the core principles of computer science
@@ -203,7 +196,7 @@ In addition to her public talk, Inniss also will meet with SVSU faculty, staff a
         \n\nIdentifying the bacteria will help Collins understand how it entered the lab, and thus, how to prevent similar bacteria from entering in the future. McEvoy said a previously identified bacterium is typically found on human eyebrows, suggesting a pharmacy staff member scratching their eyebrow may have been the source of the microscopic intruder.
         \n\nMcEvoy expects to identify about 20 bacteria within the year.  Once the Healthway Compounding Pharmacy research is finished, McEvoy said he expects SVSU will use the Biolog system for teaching and faculty research while also offering research services to Healthway Compounding Pharmacy and other companies.
         \n\nIn 2015, SVSU received the Community Engagement classification from the Carnegie Foundation for the Advancement of Teaching, a distinction achieved by only 7 percent of U.S. colleges and universities. For more on SVSU\'s community engagement, visit svsu.edu/communityengagement/.</string>
-<<<<<<< HEAD
+
     <string name="zmmetiva_title">Career Opportunities</string>
     <string name="zmmetiva_graduate">Where do our graduates go after graduation?</string>
     <string name="afterGradInfoTextView">Some students go on to complete graduate work and earn master’s degrees and Ph.D.s.  Our programs prepare students for grad school if that’s what they are interested in.  Many have pursued graduate degrees at institutions in the state such as Michigan State University, Oakland University, The University of Michigan and Central Michigan University. Others have gone on to schools in other states and done very well. For the majority of our students, they decide to enter the workforce after graduation.  Our name is recognized as producing skilled employees…a fact that we are very proud of.  In fact many local and regional employers return to SVSU year after year to hire our Computer Science and Information System student graduates.</string>
@@ -212,16 +205,11 @@ In addition to her public talk, Inniss also will meet with SVSU faculty, staff a
     <string name="zmmetiva_titleText2">Local Employers</string>
     <string name="zmmetiva_titleText3">Regional Employers</string>
 
-=======
+
 
         <string name="tpmetiva_acm_desc">The Association For Computing Machinery (ACM) was founded in 1947. It is an international scientific and educational organization dedicated to advancing art, science, engineering and application of information technology. The ACM serves both professional and public interest by fostering the open interchange of information and promoting the highest professional and ethical standards.</string>
         <string name="tpmetiva_ieee_desc">The Institute of Electrical and Electronics Engineers (IEEE) is an international organization offering professional membership for engineers and scientists throughout the world. With a membership of over 360,000 in about 150 countries, IEEE is the world\'s largest professional technical society. The goals of IEEE focus on the promotion and advancement of knowledge and practice of electrical, electronics and computer engineering and computer science. To achieve these goals, 35 technical societies provide specialized membership within IEEE. In addition, over 800 worldwide Student Branches are sponsored by IEEE. \n\n\ The SVSU IEEE Student Branch , established in 1986, is open to EE and CS students, who are enrolled on at least a 50% full-time basis. Students enrolled in an allied branch of engineering, engineering technology or the related arts and sciences are also eligible for membership.\n\nFor more information and an application for membership contact any of the following:\n</string>
->>>>>>> bc7161049cbc417415655d5628daf4cc81dcd9e5
-=======
 
-
->>>>>>> 56564649a55ccddbbedc0c484c1c03f85f88e0ba
-=======
     <string name="seniorHeadingText">Year 4 - Senior</string>
     <string name="cs401Text">CS 401</string>
     <string name="cs421Text">CS 421</string>
@@ -246,6 +234,19 @@ In addition to her public talk, Inniss also will meet with SVSU faculty, staff a
     <string name="cs411Text">CS 411</string>
     <string name="cs345Text">CS 345</string>
     <string name="cis357Text">CIS 357</string>
+    <string name="txtDeptChairName">Cho</string>
+    <string name="tsk_dept_chair">Cho</string>
+    <string name="txtDeptChairTitle">Dept Chair</string>
+    <string name="txtDeptChairOffice">SE-178</string>
+    <string name="txtDeptChairPhone">5551212</string>
+    <string name="txtDeptChairEmail">cho@svsu.edu</string>
+    <string name="txtAscDeanTitle">Dean</string>
+    <string name="txtAscDeanName">Frank Hall</string>
+    <string name="txtAscDeanEmail">hall@svsu.edu</string>
+    <string name="txtAscDeanPhone">5551212</string>
+    <string name="txtAscDeanOffice">P-236</string>
+    <string name="txtDeanOffice">P-236</string>
+    <string name="txtDeanPhone">5551212</string>
     <!-- gpcorser -->
->>>>>>> 5fa48ecc8501fc271a3313831b5a41f074d15c8c
+
 </resources>
