@@ -31,6 +31,7 @@
         </activity>
 
         <activity
+<<<<<<< HEAD
             android:name=".kafzal1_chap1"
             android:label="@string/kafzal">
         </activity>
@@ -59,6 +60,17 @@
             android:name="tpmetiva_chap3"
             android:label="Bitcoiners">
         </activity>
+=======
+            android:name=".gxhender_chap1"
+            android:label="@string/gxhender">
+        </activity>
+
+        <activity
+            android:name=".gxhender_AboutUs"
+            android:label="About Us">
+        </activity>
+
+>>>>>>> 56564649a55ccddbbedc0c484c1c03f85f88e0ba
 
     </application>
 
