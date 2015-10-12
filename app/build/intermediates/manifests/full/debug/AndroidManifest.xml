@@ -24,6 +24,7 @@
         </activity>
 
         <!-- Declare activities below here -->
+
         <activity
             android:name="edu.svsu.cs403.cs403_fa2015.gpcorser_chap1"
             android:label="@string/gpcorser" >
@@ -51,6 +52,46 @@
         <activity
             android:name="edu.svsu.cs403.cs403_fa2015.alpero_chap3"
             android:label="@string/alpero" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.tpmetiva_chap1"
+            android:label="ACM" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.tpmetiva_chap2"
+            android:label="IEEE" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.tpmetiva_chap3"
+            android:label="Bitcoiners" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.gxhender_chap1"
+            android:label="@string/gxhender" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.gxhender_aboutus"
+            android:label="About Us" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.pjessenm_chap12"
+            android:label="pjessenmWhyStudy" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.jmwalter_chap1"
+            android:label="@string/jmwalter" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.jmwalter_chap2"
+            android:label="@string/jmwalter" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.jmwalter_chap3"
+            android:label="@string/jmwalter" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.jmwalter_chap4"
+            android:label="@string/jmwalter" >
         </activity>
     </application>
 
