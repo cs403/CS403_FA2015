@@ -6,7 +6,7 @@
         <item>Komal Afzal</item>        <!-- kafzal -->
         <item>Alejandro Arenas</item>   <!-- adarenas -->
         <item>Brian Cobb</item>         <!-- bjcobb -->
-        <item>Philip Essenmacher</item> <!-- pjessenm -->
+        <item>Why Study CSIS? (Phil Essenmacher)</item> <!-- pjessenm -->
         <item>Gerald Henderson</item>   <!-- gxhender -->
         <item>Tyler Kosaski</item>      <!-- tskosask-->
         <item>Richard Megerle</item>    <!-- rtmegerl -->
@@ -50,6 +50,7 @@
 
     <string-array name="pjessenm">
         <item>Basic TextView</item>
+        <item>Why Study CSIS?</item>
     </string-array>
 
     <string-array name="gxhender">
