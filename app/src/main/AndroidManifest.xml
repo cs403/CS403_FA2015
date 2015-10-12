@@ -17,6 +17,7 @@
         </activity>
 
         <!-- Declare activities below here-->
+
         <activity
             android:name=".gpcorser_chap1"
             android:label="@string/gpcorser">
@@ -73,6 +74,33 @@
         <activity
             android:name=".pjessenm_chap12"
             android:label="pjessenmWhyStudy">
+        <activity
+            android:name=".gpcorser_chap1"
+            android:label="@string/gpcorser">
+        </activity>
+        <activity
+            android:name=".gpcorser_chap2"
+            android:label="@string/gpcorser">
+        </activity>
+        <activity
+            android:name=".jmwalter_chap1"
+            android:label="@string/jmwalter">
+        </activity>
+        <activity
+            android:name=".jmwalter_chap2"
+            android:label="@string/jmwalter">
+        </activity>
+        <activity
+            android:name=".jmwalter_chap3"
+            android:label="@string/jmwalter">
+        </activity>
+        <activity
+            android:name=".jmwalter_chap4"
+            android:label="@string/jmwalter">
+        </activity>
+        <activity
+            android:name=".bjcobb_chap1"
+            android:label="@string/CIS_Title">
         </activity>
 
     </application>

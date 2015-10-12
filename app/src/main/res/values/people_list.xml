@@ -14,7 +14,7 @@
         <item>Zach Metiva</item>        <!-- zmmetiva -->
         <item>NEWS (alpero)</item>          <!-- alpero -->
         <item>Michael Roof</item>       <!-- mdroof -->
-        <item>Joshua Walters</item>     <!-- jmwalter -->
+        <item>CS Course Sequence(Joshua Walters)</item>     <!-- jmwalter -->
         <item>Nathan Whitfield</item>   <!-- ntwhitfi -->
         <item>Andrew York</item>        <!-- amyork -->
         <item>TEST</item>        <!-- amyork -->
@@ -91,7 +91,10 @@
     </string-array>
 
     <string-array name="jmwalter">
-        <item>Basic TextView</item>
+        <item>Freshman Requirements</item>
+        <item>Sophomore Requirements</item>
+        <item>Junior Requirements</item>
+        <item>Senior Requirements</item>
     </string-array>
 
     <string-array name="ntwhitfi">

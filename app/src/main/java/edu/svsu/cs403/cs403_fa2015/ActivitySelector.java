@@ -149,7 +149,7 @@ public class ActivitySelector extends AppCompatActivity {
             gxhender(5),
             tskosask(6),
             rtmegerl(7),
-            tpmetiva(8),
+            tpmetiv1(8),
             zmmetiva(9),
             alpero(10),
             mdroof(11),
