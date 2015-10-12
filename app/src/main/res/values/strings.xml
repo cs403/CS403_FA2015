@@ -23,6 +23,7 @@
 
 
         <string name="action_settings">Settings</string>
+<<<<<<< HEAD
         <string name="gpcorser_bio">Great humanitarian</string>
     <string name="gpcorser_dept_desc">Department Description</string>
     <string name="gpcorser_dept_desc_text1">Inside the classroom</string>
@@ -194,4 +195,8 @@ In addition to her public talk, Inniss also will meet with SVSU faculty, staff a
         <string name="tpmetiva_acm_desc">The Association For Computing Machinery (ACM) was founded in 1947. It is an international scientific and educational organization dedicated to advancing art, science, engineering and application of information technology. The ACM serves both professional and public interest by fostering the open interchange of information and promoting the highest professional and ethical standards.</string>
         <string name="tpmetiva_ieee_desc">The Institute of Electrical and Electronics Engineers (IEEE) is an international organization offering professional membership for engineers and scientists throughout the world. With a membership of over 360,000 in about 150 countries, IEEE is the world\'s largest professional technical society. The goals of IEEE focus on the promotion and advancement of knowledge and practice of electrical, electronics and computer engineering and computer science. To achieve these goals, 35 technical societies provide specialized membership within IEEE. In addition, over 800 worldwide Student Branches are sponsored by IEEE. \n\n\ The SVSU IEEE Student Branch , established in 1986, is open to EE and CS students, who are enrolled on at least a 50% full-time basis. Students enrolled in an allied branch of engineering, engineering technology or the related arts and sciences are also eligible for membership.\n\nFor more information and an application for membership contact any of the following:\n</string>
 >>>>>>> bc7161049cbc417415655d5628daf4cc81dcd9e5
+=======
+
+
+>>>>>>> 56564649a55ccddbbedc0c484c1c03f85f88e0ba
 </resources>
