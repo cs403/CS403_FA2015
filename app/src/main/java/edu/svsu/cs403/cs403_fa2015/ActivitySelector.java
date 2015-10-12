@@ -63,10 +63,8 @@ public class ActivitySelector extends AppCompatActivity {
             super();
             exercises = new String[chapters.length][];
             for (int i=0; i < exercises.length; i++) {
-                //int resId = getResources().getIdentifier("chap" + (i+1), "array", getPackageName());
                 String student = (Username.values()[i]).name();
                 int resId = getResources().getIdentifier(student, "array", getPackageName());
-                //resId = Username.values()[i + 1]).name();
                 exercises[i] = getResources().getStringArray(resId);
             }
         }
@@ -108,7 +106,6 @@ public class ActivitySelector extends AppCompatActivity {
         }
 
         public Object getGroup(int groupPosition) {
-            //return "Chapter " + (groupPosition + 1) + ": " + chapters[groupPosition];
             return chapters[groupPosition];
         }
 

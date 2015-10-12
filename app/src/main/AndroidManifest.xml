@@ -31,7 +31,6 @@
         </activity>
 
         <activity
-<<<<<<< HEAD
             android:name=".kafzal1_chap1"
             android:label="@string/kafzal">
         </activity>
@@ -60,7 +59,8 @@
             android:name="tpmetiva_chap3"
             android:label="Bitcoiners">
         </activity>
-=======
+		
+		<activity
             android:name=".gxhender_chap1"
             android:label="@string/gxhender">
         </activity>
@@ -70,7 +70,10 @@
             android:label="About Us">
         </activity>
 
->>>>>>> 56564649a55ccddbbedc0c484c1c03f85f88e0ba
+        <activity
+            android:name=".pjessenm_chap12"
+            android:label="pjessenmWhyStudy">
+        </activity>
 
     </application>
 
