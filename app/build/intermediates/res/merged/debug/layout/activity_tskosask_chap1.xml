@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+
 <!--Tyler Kosaski 10/2/15
 This layout displays information about the Department Chair
 -->
@@ -89,4 +90,5 @@ This layout displays information about the Department Chair
         android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
-<!-- From: file:/M:/prog01/CS403_FA2015/app/src/main/res/layout/activity_tskosask_chap1.xml -->
+
+<!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/layout/activity_tskosask_chap1.xml -->

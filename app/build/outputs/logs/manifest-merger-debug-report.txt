@@ -1,155 +1,173 @@
 -- Merging decision tree log ---
 manifest
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:2:1-99:12
-	xmlns:android
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:2:11-69
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:2:1-111:12
 	package
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:3:5-42
-		INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml
-		INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml
+		INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml
-		INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml
+		INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml
+		INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml
-		INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml
+		INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml
+		INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml
 application
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:5:5-97:19
-MERGED from [com.android.support:appcompat-v7:22.2.1] M:\prog01\CS403_FA2015\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] M:\prog01\CS403_FA2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:5:5-109:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] M:\cs403\CS403_FA2015\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] M:\cs403\CS403_FA2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:8:9-41
 	android:allowBackup
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:9:9-40
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:9:9-40
 activity#edu.svsu.cs403.cs403_fa2015.ActivitySelector
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:11:9-18:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:11:9-18:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:13:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:13:13-45
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:12:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:12:13-45
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:14:13-17:29
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:14:13-17:29
 action#android.intent.action.MAIN
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:16:27-74
 activity#edu.svsu.cs403.cs403_fa2015.gpcorser_chap1
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:22:9-25:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:22:9-25:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:24:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:24:13-45
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:23:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:23:13-43
 activity#edu.svsu.cs403.cs403_fa2015.gpcorser_chap2
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:26:9-29:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:26:9-29:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:28:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:28:13-45
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:27:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:27:13-43
 activity#edu.svsu.cs403.cs403_fa2015.bjcobb_chap1
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:30:9-33:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:30:9-33:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:32:13-46
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:32:13-46
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:31:13-41
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:31:13-41
 activity#edu.svsu.cs403.cs403_fa2015.kafzal1_chap1
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:35:9-38:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:35:9-38:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:37:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:37:13-43
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:36:13-42
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:36:13-42
+activity#edu.svsu.cs403.cs403_fa2015.kafzal1_chap2
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:41:13-43
+	android:name
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:40:13-42
+activity#edu.svsu.cs403.cs403_fa2015.kafzal1_chap3
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:45:13-43
+	android:name
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:44:13-42
 activity#edu.svsu.cs403.cs403_fa2015.alpero_chap1
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:39:9-42:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:47:9-50:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:41:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:49:13-43
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:40:13-41
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:48:13-41
 activity#edu.svsu.cs403.cs403_fa2015.alpero_chap2
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:43:9-46:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:51:9-54:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:45:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:53:13-43
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:44:13-41
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:52:13-41
 activity#edu.svsu.cs403.cs403_fa2015.alpero_chap3
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:47:9-50:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:55:9-58:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:49:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:57:13-43
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:48:13-41
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:56:13-41
 activity#edu.svsu.cs403.cs403_fa2015.tpmetiva_chap1
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:52:9-55:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:60:9-63:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:54:13-32
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:62:13-32
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:53:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:61:13-43
 activity#edu.svsu.cs403.cs403_fa2015.tpmetiva_chap2
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:56:9-59:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:64:9-67:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:58:13-33
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:66:13-33
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:57:13-42
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:65:13-42
 activity#edu.svsu.cs403.cs403_fa2015.tpmetiva_chap3
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:60:9-63:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:68:9-71:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:62:13-39
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:70:13-39
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:61:13-42
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:69:13-42
 activity#edu.svsu.cs403.cs403_fa2015.gxhender_chap1
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:65:3-68:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:73:3-76:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:67:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:75:13-45
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:66:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:74:13-43
 activity#edu.svsu.cs403.cs403_fa2015.gxhender_aboutus
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:70:9-73:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:78:9-81:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:72:13-37
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:80:13-37
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:71:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:79:13-45
 activity#edu.svsu.cs403.cs403_fa2015.pjessenm_chap12
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:75:9-78:24
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:83:9-86:24
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:77:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:85:13-45
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:76:13-44
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:84:13-44
 activity#edu.svsu.cs403.cs403_fa2015.jmwalter_chap1
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:80:9-83:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:88:9-91:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:82:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:90:13-45
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:81:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:89:13-43
 activity#edu.svsu.cs403.cs403_fa2015.jmwalter_chap2
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:84:9-87:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:92:9-95:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:86:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:94:13-45
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:85:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:93:13-43
 activity#edu.svsu.cs403.cs403_fa2015.jmwalter_chap3
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:88:9-91:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:96:9-99:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:90:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:98:13-45
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:89:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:97:13-43
 activity#edu.svsu.cs403.cs403_fa2015.jmwalter_chap4
-ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:92:9-95:20
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:100:9-103:20
 	android:label
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:94:13-45
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:102:13-45
 	android:name
-		ADDED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml:93:13-43
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:101:13-43
+activity#edu.svsu.cs403.cs403_fa2015.tskosask_chap1
+ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:104:9-107:20
+	android:label
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:106:13-45
+	android:name
+		ADDED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml:105:13-43
 uses-sdk
-INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:22.2.1] M:\prog01\CS403_FA2015\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] M:\prog01\CS403_FA2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.1] M:\cs403\CS403_FA2015\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] M:\cs403\CS403_FA2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml
-		INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml
+		INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml
+		INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml
-		INJECTED from M:\prog01\CS403_FA2015\app\src\main\AndroidManifest.xml
+		INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml
+		INJECTED from M:\cs403\CS403_FA2015\app\src\main\AndroidManifest.xml

@@ -42,6 +42,14 @@
             android:label="@string/kafzal" >
         </activity>
         <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.kafzal1_chap2"
+            android:label="@string/kafzal" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.kafzal1_chap3"
+            android:label="@string/kafzal" >
+        </activity>
+        <activity
             android:name="edu.svsu.cs403.cs403_fa2015.alpero_chap1"
             android:label="@string/alpero" >
         </activity>
@@ -92,6 +100,10 @@
         <activity
             android:name="edu.svsu.cs403.cs403_fa2015.jmwalter_chap4"
             android:label="@string/jmwalter" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.tskosask_chap1"
+            android:label="@string/tskosask" >
         </activity>
     </application>
 
