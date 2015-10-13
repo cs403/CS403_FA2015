@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/gxhender_about_us_resource.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/gxhender_about_us_resource.xml -->
     <eat-comment/>
     <string-array name="AboutUsArray">
         <item>About</item>
@@ -14,7 +14,7 @@
         <item>Networking with Industry</item>
         <item>Student Networking</item>
     </string-array>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/people_list.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/people_list.xml -->
     <eat-comment/>
     <string-array name="TEST">
         <item>TEST</item>
@@ -43,7 +43,7 @@
         <item>Brian Cobb</item>         <!-- bjcobb -->
         <item>Why Study CSIS? (Phil Essenmacher)</item> <!-- pjessenm -->
         <item>Gerald Henderson</item>   <!-- gxhender -->
-        <item>Faculty (Tyler Kosaski)</item>      <!-- tskosask-->
+        <item>Tyler Kosaski</item>      <!-- tskosask-->
         <item>Richard Megerle</item>    <!-- rtmegerl -->
         <item>Extracurricular (Tyler Metiva)</item>       <!-- tpmetiv1 -->
         <item>Zach Metiva</item>        <!-- zmmetiva -->
@@ -105,7 +105,7 @@
         <item>Local Employers</item>
         <item>Regional Employers</item>
     </string-array>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -255,11 +255,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -285,7 +285,7 @@
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/gxhender_about_us_resource.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/gxhender_about_us_resource.xml -->
     <eat-comment/>
     <string name="AboutUs">
         Do I really need to worry about the department itself?
@@ -301,7 +301,7 @@
         small compared to other institutions and you’ll get to know and work with the CSIS faculty
         one-on-one.  This helps to foster a learning environment aimed at student success.
     </string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="CIS_Title">CIS</string>
     <string name="CIS_Web">
@@ -325,7 +325,7 @@ Computer Information Systems tends to be more application oriented than Computer
         </html>
         ]]>
     </string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/gxhender_about_us_resource.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/gxhender_about_us_resource.xml -->
     <eat-comment/>
     <string name="CapstoneProjects">
         How would you like to work on a real-world project while still an undergraduate?  That’s
@@ -348,7 +348,7 @@ Computer Information Systems tends to be more application oriented than Computer
         applications, development tools, operating systems and server software for their personal
         computers as that used in classes and labs.
     </string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="GenEduText">General Education</string>
     <string name="MissionInfo">The mission of the Department of Computer Science and Information Systems at SVSU is to provide an outstanding education to its students in accordance with the guidelines of the SVSU mission, to advance scholarship in the key domains of the computing and information systems sciences, and to engage in activities that improve the welfare of society and enhance the reputation of SVSU.  The department will provide its students with balanced programs which emphasize:
@@ -376,7 +376,7 @@ Computer Information Systems tends to be more application oriented than Computer
     \n 3) Graduates shall find employment in the computing profession and/or continue advanced studies in computer science or information systems.
 
 </string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/gxhender_about_us_resource.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/gxhender_about_us_resource.xml -->
     <eat-comment/>
     <string name="NetworkingWithIndustry">
         The Department maintains close ties to local industry.  This means that CSIS students have
@@ -386,10 +386,10 @@ Computer Information Systems tends to be more application oriented than Computer
         also contact the Department directly when they are looking to hire new recruits for full
         time positions.
     </string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="PHILReqText">PHIL 205A (or 210B)</string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/gxhender_about_us_resource.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/gxhender_about_us_resource.xml -->
     <eat-comment/>
     <string name="PreparationforGraduateSchool">
         We have had many students interesting in going on to grad school.  Those students who did
@@ -426,7 +426,7 @@ Computer Information Systems tends to be more application oriented than Computer
         PHP, C++, Linux, Windows, IIS, Apache, Microsoft Project, Visio, mySQL, Oracle, SQL Server,
         Expression Studio and DreamWeaver
     </string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -445,7 +445,7 @@ Computer Information Systems tends to be more application oriented than Computer
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="adarenas">Alejandro Arenas</string>
@@ -605,16 +605,17 @@ In addition to her public talk, Inniss also will meet with SVSU faculty, staff a
         \n\nIn 2015, SVSU received the Community Engagement classification from the Carnegie Foundation for the Advancement of Teaching, a distinction achieved by only 7 percent of U.S. colleges and universities. For more on SVSU\'s community engagement, visit svsu.edu/communityengagement/.</string>
     <string name="seniorHeadingText">Year 4 - Senior</string>
     <string name="sophomoreHeadingText">Year 2 - Sophomore</string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="tpmetiva">Tyler Metiva</string>
     <string name="tpmetiva_acm_desc">The Association For Computing Machinery (ACM) was founded in 1947. It is an international scientific and educational organization dedicated to advancing art, science, engineering and application of information technology. The ACM serves both professional and public interest by fostering the open interchange of information and promoting the highest professional and ethical standards.</string>
     <string name="tpmetiva_ieee_desc">The Institute of Electrical and Electronics Engineers (IEEE) is an international organization offering professional membership for engineers and scientists throughout the world. With a membership of over 360,000 in about 150 countries, IEEE is the world\'s largest professional technical society. The goals of IEEE focus on the promotion and advancement of knowledge and practice of electrical, electronics and computer engineering and computer science. To achieve these goals, 35 technical societies provide specialized membership within IEEE. In addition, over 800 worldwide Student Branches are sponsored by IEEE. \n\n\ The SVSU IEEE Student Branch , established in 1986, is open to EE and CS students, who are enrolled on at least a 50% full-time basis. Students enrolled in an allied branch of engineering, engineering technology or the related arts and sciences are also eligible for membership.\n\nFor more information and an application for membership contact any of the following:\n</string>
+    <string name="tsk_dept_chair">Cho</string>
     <string name="tskosask">Tyler Kosaski</string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/pjessenm_chap12.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/pjessenm_chap12.xml -->
     <eat-comment/>
     <string name="txt1">
         "Computing and computer technology are part of just about everything that touches our lives from the cars we drive, to the movies we watch, to the ways businesses and governments deal with us. Understanding different dimensions of computing is part of the necessary skill set for an educated person in the 21st century. Whether you want to be a scientist, develop the latest killer application, or just know what it really means when someone says “the computer made a mistake”, studying computing will provide you with valuable knowledge."
@@ -646,41 +647,38 @@ In addition to her public talk, Inniss also will meet with SVSU faculty, staff a
     <string name="txt9">
         "An increasing number of universities and employers see successful completion of a computer science course as a sign of academic well-roundedness."
     </string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="txtAscDeanEmail">achubb@svsu.edu</string>
-    <string name="txtAscDeanName">Andrew M Chubb</string>
+    <string name="txtAscDeanEmail">hall@svsu.edu</string>
+    <string name="txtAscDeanName">Frank Hall</string>
     <string name="txtAscDeanOffice">P-236</string>
-    <string name="txtAscDeanPhone">555-1212</string>
-    <string name="txtAscDeanTitle">Associate Dean</string>
-    <string name="txtDeanEmail">hall@svsu.edu</string>
-    <string name="txtDeanName">Frank Hall</string>
+    <string name="txtAscDeanPhone">5551212</string>
+    <string name="txtAscDeanTitle">Dean</string>
     <string name="txtDeanOffice">P-236</string>
-    <string name="txtDeanPhone">555-1212</string>
-    <string name="txtDeanTitle">Dean</string>
+    <string name="txtDeanPhone">5551212</string>
     <string name="txtDeptChairEmail">cho@svsu.edu</string>
-    <string name="txtDeptChairName">Dr. Cho</string>
+    <string name="txtDeptChairName">Cho</string>
     <string name="txtDeptChairOffice">SE-178</string>
-    <string name="txtDeptChairPhone">555-1212</string>
-    <string name="txtDeptChairTitle">Department Chair</string>
+    <string name="txtDeptChairPhone">5551212</string>
+    <string name="txtDeptChairTitle">Dept Chair</string>
     <string name="zmmetiva">Zach Metiva</string>
     <string name="zmmetiva_graduate">Where do our graduates go after graduation?</string>
     <string name="zmmetiva_title">Career Opportunities</string>
     <string name="zmmetiva_titleText1">Opprotunities</string>
     <string name="zmmetiva_titleText2">Local Employers</string>
     <string name="zmmetiva_titleText3">Regional Employers</string>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
     </style>
-    <!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/M:/cs403/CS403_FA2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
