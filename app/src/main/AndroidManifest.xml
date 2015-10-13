@@ -61,7 +61,7 @@
             android:name="tpmetiva_chap3"
             android:label="Bitcoiners">
         </activity>
-		
+
 		<activity
             android:name=".gxhender_chap1"
             android:label="@string/gxhender">
@@ -92,6 +92,21 @@
         <activity
             android:name=".jmwalter_chap4"
             android:label="@string/jmwalter">
+        </activity>
+
+        <activity
+            android:name=".tskosask_chap1"
+            android:label="@string/tskosask">
+        </activity>
+
+        <activity
+            android:name=".tskosask_chap2"
+            android:label="@string/tskosask">
+        </activity>
+
+        <activity
+            android:name=".tskosask_chap3"
+            android:label="@string/tskosask">
         </activity>
 
     </application>

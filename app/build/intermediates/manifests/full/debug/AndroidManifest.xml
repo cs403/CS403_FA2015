@@ -93,6 +93,18 @@
             android:name="edu.svsu.cs403.cs403_fa2015.jmwalter_chap4"
             android:label="@string/jmwalter" >
         </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.tskosask_chap1"
+            android:label="@string/tskosask" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.tskosask_chap2"
+            android:label="@string/tskosask" >
+        </activity>
+        <activity
+            android:name="edu.svsu.cs403.cs403_fa2015.tskosask_chap3"
+            android:label="@string/tskosask" >
+        </activity>
     </application>
 
 </manifest>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+
 <!--Tyler Kosaski 10/2/15
-This layout displays information about the Assc. Dean
+This layout displays information about the Department Chair
 -->
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -14,50 +15,59 @@ This layout displays information about the Assc. Dean
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/txtAscDeanTitle"
-        android:id="@+id/txtTitleAscDean"
+        android:id="@+id/txtTitle"
         android:layout_alignParentTop="false"
-        android:textSize="25dp"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:textSize="31dp"
+        android:layout_centerHorizontal="true"
         android:gravity="center_horizontal"
-        android:layout_marginTop="15dp"
-        android:textIsSelectable="false"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_marginTop="15dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/txtAscDeanName"
-        android:id="@+id/txtAscDeanName"
+        android:id="@+id/textView"
         android:textSize="25dp"
-        android:layout_below="@+id/txtTitleAscDean"
+        android:layout_below="@+id/txtTitle"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="12dp"
-        android:layout_marginBottom="20dp" />
+        android:layout_marginTop="15dp" />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imgAscDean"
-        android:src="@drawable/nophoto"
-        android:minWidth="70dp"
-        android:maxWidth="70dp"
-        android:layout_alignLeft="@+id/textView4"
-        android:layout_alignStart="@+id/textView4"
-        android:layout_alignRight="@+id/textView4"
-        android:layout_alignEnd="@+id/textView4"
-        android:nestedScrollingEnabled="false"
-        android:layout_marginBottom="-5dp"
-        android:layout_alignTop="@+id/txtAscDeanName" />
+        android:id="@+id/imageView2"
+        android:src="@drawable/nopic"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:minWidth="100dp"
+        android:minHeight="150dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/txtDeanOffice"
-        android:id="@+id/txtAscDeanOffice"
+        android:text="@string/txtAscDeanTitle"
+        android:id="@+id/textView2"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/imageView2"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtAscDeanOffice"
+        android:id="@+id/textView3"
         android:textSize="20dp"
         android:gravity="center_horizontal"
-        android:layout_below="@+id/imgAscDean"
-        android:layout_centerHorizontal="true" />
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -66,7 +76,7 @@ This layout displays information about the Assc. Dean
         android:id="@+id/textView4"
         android:textSize="20dp"
         android:gravity="center_horizontal"
-        android:layout_below="@+id/txtAscDeanOffice"
+        android:layout_below="@+id/textView3"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp" />
 
@@ -81,3 +91,4 @@ This layout displays information about the Assc. Dean
         android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
+

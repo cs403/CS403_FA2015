@@ -234,19 +234,23 @@ In addition to her public talk, Inniss also will meet with SVSU faculty, staff a
     <string name="cs411Text">CS 411</string>
     <string name="cs345Text">CS 345</string>
     <string name="cis357Text">CIS 357</string>
-    <string name="txtDeptChairName">Cho</string>
-    <string name="tsk_dept_chair">Cho</string>
-    <string name="txtDeptChairTitle">Dept Chair</string>
+
+
+    <!--tskosask-->
+    <string name="txtDeptChairName">Dr. Cho</string>
+    <string name="txtDeptChairTitle">Department Chair</string>
     <string name="txtDeptChairOffice">SE-178</string>
-    <string name="txtDeptChairPhone">5551212</string>
+    <string name="txtDeptChairPhone">555-1212</string>
     <string name="txtDeptChairEmail">cho@svsu.edu</string>
-    <string name="txtAscDeanTitle">Dean</string>
-    <string name="txtAscDeanName">Frank Hall</string>
-    <string name="txtAscDeanEmail">hall@svsu.edu</string>
-    <string name="txtAscDeanPhone">5551212</string>
+    <string name="txtAscDeanTitle">Associate Dean</string>
+    <string name="txtAscDeanName">Andrew M Chubb</string>
+    <string name="txtAscDeanEmail">achubb@svsu.edu</string>
+    <string name="txtAscDeanPhone">555-1212</string>
     <string name="txtAscDeanOffice">P-236</string>
+    <string name="txtDeanTitle">Dean</string>
+    <string name="txtDeanName">Frank Hall</string>
+    <string name="txtDeanEmail">hall@svsu.edu</string>
     <string name="txtDeanOffice">P-236</string>
-    <string name="txtDeanPhone">5551212</string>
-    <!-- gpcorser -->
+    <string name="txtDeanPhone">555-1212</string>
 
 </resources>

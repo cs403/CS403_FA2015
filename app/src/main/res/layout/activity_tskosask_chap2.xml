@@ -14,7 +14,7 @@ This layout displays information about the Department Chair
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/txtDeptChairTitle"
+        android:text="@string/txtDeanTitle"
         android:id="@+id/txtTitle"
         android:layout_alignParentTop="false"
         android:layout_alignParentLeft="false"
@@ -27,7 +27,7 @@ This layout displays information about the Department Chair
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/txtDeptChairName"
+        android:text="@string/txtDeanName"
         android:id="@+id/textView"
         android:textSize="25dp"
         android:layout_below="@+id/txtTitle"
@@ -38,7 +38,7 @@ This layout displays information about the Department Chair
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageView2"
-        android:src="@drawable/cho"
+        android:src="@drawable/nopic"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
@@ -48,18 +48,31 @@ This layout displays information about the Department Chair
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/txtDeptChairOffice"
-        android:id="@+id/textView3"
+        android:text="@string/txtDeanTitle"
+        android:id="@+id/textView2"
         android:textSize="20dp"
+        android:layout_marginTop="30dp"
         android:gravity="center_horizontal"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="40dp"
-        android:layout_below="@+id/imageView2" />
+        android:layout_below="@+id/imageView2"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/txtDeptChairPhone"
+        android:text="@string/txtDeanOffice"
+        android:id="@+id/textView3"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtDeanPhone"
         android:id="@+id/textView4"
         android:textSize="20dp"
         android:gravity="center_horizontal"
@@ -70,7 +83,7 @@ This layout displays information about the Department Chair
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/txtDeptChairEmail"
+        android:text="@string/txtDeanEmail"
         android:id="@+id/textView5"
         android:textSize="20dp"
         android:gravity="center_horizontal"
@@ -79,4 +92,3 @@ This layout displays information about the Department Chair
 
 </RelativeLayout>
 
-<!-- From: file:/C:/Users/Tyler/StudioProjects/CS403/app/src/main/res/layout/activity_tskosask_chap1.xml -->
